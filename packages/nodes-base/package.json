@@ -279,6 +279,7 @@
       "dist/credentials/ZulipApi.credentials.js"
     ],
     "nodes": [
+      "dist/nodes/AccionManual/AccionManual.node.js",
       "dist/nodes/ActiveCampaign/ActiveCampaign.node.js",
       "dist/nodes/ActiveCampaign/ActiveCampaignTrigger.node.js",
       "dist/nodes/AgileCrm/AgileCrm.node.js",
@@ -363,7 +364,6 @@
       "dist/nodes/Freshdesk/Freshdesk.node.js",
       "dist/nodes/Flow/Flow.node.js",
       "dist/nodes/Flow/FlowTrigger.node.js",
-      "dist/nodes/FriendGrid/FriendGrid.node.js",
       "dist/nodes/Function.node.js",
       "dist/nodes/FunctionItem.node.js",
       "dist/nodes/GetResponse/GetResponse.node.js",
